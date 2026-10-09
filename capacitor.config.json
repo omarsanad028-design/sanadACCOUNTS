@@ -1,0 +1,8 @@
+{
+  "appId": "com.sanad.accounts",
+  "appName": "سند",
+  "webDir": "www",
+  "backgroundColor": "#06080D",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
